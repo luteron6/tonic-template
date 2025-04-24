@@ -1,4 +1,6 @@
 ---
+title: home
 ---
 
-# tonic-starter
+# Shadow-Shell
+A dark, retro-coding Jekyll theme for tonic!
