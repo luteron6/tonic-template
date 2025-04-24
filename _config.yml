@@ -1,5 +1,5 @@
-title: tonic-starter
-description: ""
+title: shadow-shell
+description: "A dark, retro-coding Jekyll theme for tonic!"
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
