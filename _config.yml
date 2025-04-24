@@ -1,5 +1,5 @@
 title: shadow-shell
-description: "A dark, retro-coding Jekyll theme for tonic!"
+description: "A dark, retro-coding theme for Jekyll!"
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
