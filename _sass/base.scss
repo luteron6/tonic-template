@@ -1,7 +1,50 @@
+:root {
+  --dark-grey: #191919;
+  --light-grey: #686868;
+  --lighter-grey: #d5d5d5;
+  --white: #ffffff;
+  --neon-green: #adff2f;
+  --neon-blue: #00fcef;
+}
+
 body {
-  background-color: #191919;
-  font-family: sans-serif;
+  background-color: var(--dark-grey);
+  font-family: "JetBrains Mono", monospace;
   margin: auto;
   max-width: 70ch;
-  color: #ffffff;
+  color: var(--white);
+  a:link {color: var(--neon-green)}
+  a:visited {color: var(--neon-blue)}
+  a:hover {color: var(--neon-blue)}
+}
+h1 {
+  color: var(--neon-green);
+}
+
+h2 {
+  color: var(--neon-green);
+}
+
+h3 {
+  color: var(--neon-green);
+}
+
+pre {
+  font-size: small;
+  white-space: pre-wrap;
+  background: var(--light-grey);
+  padding: 10px;
+  border: 2px solid var(--lighter-grey);
+  border-radius: 10px;
+}
+
+code {
+  font-family: "JetBrains Mono", monospace;
+  white-space: pre-wrap;
+}
+
+footer {
+  font-size: x-small;
+  text-align: center;
+  margin-bottom: 20px;
 }

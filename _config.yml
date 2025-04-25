@@ -1,5 +1,10 @@
 title: shadow-shell
 description: "A dark, retro-coding theme for Jekyll!"
 encoding: utf-8
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
+footer: "(c) 2025 luteron6 &mdash; MIT license"
