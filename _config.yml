@@ -6,5 +6,8 @@ kramdown:
   input: GFM
   syntax_highlighter: rouge
 
+sass:
+  style: compressed
+
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
 footer: "(c) 2025 luteron6 &mdash; MIT license"
