@@ -71,3 +71,13 @@ nav{
   a:visited {color: var(--neon-green)}
   a:hover {color: var(--neon-blue)}
 }
+
+.four-oh-four {
+  display: flex;
+  line-height: 0.6;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  min-height: 88vh;
+}
