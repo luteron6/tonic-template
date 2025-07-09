@@ -1,0 +1,30 @@
+blockquote {
+  font-style: italic;
+  color: var(--lighter-grey);
+  border-left: 2px solid var(--neon-green);
+  padding-left: 1rem;
+  margin: 1rem 0;
+}
+
+pre {
+  font-size: small;
+  white-space: pre-wrap;
+  background: var(--light-grey);
+  padding: 10px;
+  border: 2px solid var(--lighter-grey);
+  border-radius: 10px;
+}
+
+code {
+  font-family: "JetBrains Mono", monospace;
+  white-space: pre-wrap;
+}
+.four-oh-four {
+  display: flex;
+  line-height: 0.6;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  min-height: 88vh;
+}

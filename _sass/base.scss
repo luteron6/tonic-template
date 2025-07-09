@@ -30,20 +30,6 @@ h3 {
   color: var(--neon-green);
 }
 
-pre {
-  font-size: small;
-  white-space: pre-wrap;
-  background: var(--light-grey);
-  padding: 10px;
-  border: 2px solid var(--lighter-grey);
-  border-radius: 10px;
-}
-
-code {
-  font-family: "JetBrains Mono", monospace;
-  white-space: pre-wrap;
-}
-
 hr {
   color: var(--light-grey);
   height: 2px;
@@ -70,14 +56,4 @@ nav{
   a:link {color: var(--neon-green)}
   a:visited {color: var(--neon-green)}
   a:hover {color: var(--neon-blue)}
-}
-
-.four-oh-four {
-  display: flex;
-  line-height: 0.6;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-  min-height: 88vh;
 }

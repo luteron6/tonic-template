@@ -26,3 +26,25 @@ And here's some HTML:
 ```
 ### Links
 Links are also neon green <a href="#links"> like this:</a>. They turn neon blue when hovered over or clicked.
+
+### Lists
+#### Bulleted Lists
+- Bulleted lists are also neon green.
+- They look great.
+
+- You can even nest them.
+  - Like this.
+  - Or this.
+
+#### Numbered Lists
+1. These are numbered lists.
+2. They look great.
+3. You can even nest them.
+   1. Like this.
+   2. Or this.
+
+
+### Blockquotes
+> "Never throughout history has a man who lived a life of ease left a name worth remembering."<br>~ Theodore Roosevelt
+
+### Images
