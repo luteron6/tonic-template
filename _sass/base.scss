@@ -14,9 +14,9 @@ body {
   margin: auto;
   max-width: 70ch;
   color: var(--white);
-  a:link {color: var(--neon-green)}
+  a:link {color: var(--neon-green);  text-decoration:none;}
   a:visited {color: var(--neon-blue)}
-  a:hover {color: var(--neon-blue)}
+  a:hover {color: var(--neon-blue); text-decoration: underline}
 }
 h1 {
   color: var(--neon-green);
