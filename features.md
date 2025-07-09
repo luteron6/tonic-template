@@ -29,7 +29,7 @@ Links are also neon green <a href="#links"> like this:</a>. They turn neon blue 
 
 ### Lists
 #### Bulleted Lists
-- Bulleted lists are also neon green.
+- These are bulleted lists.
 - They look great.
 
 - You can even nest them.
