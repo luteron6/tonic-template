@@ -59,6 +59,20 @@ if your site is hosted on GitHub Pages, you can add lifeblood to your site's `_c
 ```yml
 remote_theme: luteron6/tonic-template
 ```
+
+#### gem-based theme
+alternatively, you can install lifeblood as a gem-based theme.
+1. add the gem to your `Gemfile`:
+```ruby
+gem "shadow-shell"
+```
+2. change the `theme` parameter in your `_config.yml`:
+```yaml
+theme: shadow-shell
+```
+3. use [Bundler](https://bundler.io)'s `bundle` command to update all bundled gems.
+
+
 #### Advanced
 `git clone` this repo to have a local installation. Run `gem install jekyll`, then `jekyll serve` to see the template in action.
 
