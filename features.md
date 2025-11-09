@@ -3,7 +3,10 @@ title: features
 layout: default
 ---
 
-## Features
+# Features
+
+### Menu
+The menu on the left can be customized to contain any links.
 
 ### Headers
 Headers 1-3 are neon green like above. Headers 4 and smaller headers are white.
