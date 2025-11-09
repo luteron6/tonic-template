@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.email = [""]
 
   spec.summary = ""
-  spec.homepage = ""
+  spec.homepage = "https://github.com/luteron6/shadow-shell"
 
   spec.files = `git ls-files -z`.split("\x0").select { |f| f.match(%r!^(assets|_layouts|_includes|_sass|LICENSE|README|_config\.yml|404\.md)!i) }
 
