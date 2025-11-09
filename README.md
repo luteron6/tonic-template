@@ -1,5 +1,5 @@
-# ShadowShell
-**ShadowShell** is a dark, retro-coding theme for Jekyll. It’s intended to be used for code documentation, or for just having terminal or command line vibes.
+# Shadow-Shell
+**Shadow-Shell** is a dark, retro-coding theme for Jekyll. It’s intended to be used for code documentation, or for just having terminal or command line vibes.
 
 <p align="center">
   <img src="template.png" width="900">
